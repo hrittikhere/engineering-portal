@@ -35,7 +35,7 @@ Making website browsers friendly is one of the biggest reasons why W3C code val
 
 **5\. Multiple Device Accessibility**
 
-With the recent boom in smartphones and tablets more people will be accessing the Internet from mobile devices than desktop computers. By 2015, mobile commerce will reach $119 billion worldwide and some sectors are seeing an even higher proportion of mobile traffic so there is a growing need for website owners to maximize the usability of their websites in new devices. Unfortunately, many website owners do not take advantage of this growth and forego W3C validation that makes sure their websites and web pages are mobile friendly too. If you want your website to be visited by as many users as possible then accessibility should be a big factor.
+With the recent boom in smartphones and tabLet's more people will be accessing the Internet from mobile devices than desktop computers. By 2015, mobile commerce will reach $119 billion worldwide and some sectors are seeing an even higher proportion of mobile traffic so there is a growing need for website owners to maximize the usability of their websites in new devices. Unfortunately, many website owners do not take advantage of this growth and forego W3C validation that makes sure their websites and web pages are mobile friendly too. If you want your website to be visited by as many users as possible then accessibility should be a big factor.
 
 **6\. Validation help for easy Coding and Maintenance**
 

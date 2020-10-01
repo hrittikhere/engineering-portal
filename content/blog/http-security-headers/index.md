@@ -81,7 +81,7 @@ Syntax
 
 
 #### 6. Content Security Policy
-Content-Security-Policy header is used to instruct the browser to load only the allowed content defined in the policy. This uses the whitelisting approach which tells the browser from where to load the images, scripts, CSS, applets, etc. If implemented properly, this policy prevents the exploitation of Cross-Site Scripting (XSS), ClickJacking, and HTML injection attacks.
+Content-Security-Policy header is used to instruct the browser to load only the allowed content defined in the policy. This uses the whitelisting approach which tells the browser from where to load the images, scripts, CSS, appLet's, etc. If implemented properly, this policy prevents the exploitation of Cross-Site Scripting (XSS), ClickJacking, and HTML injection attacks.
 
 #### Syntax
   ```

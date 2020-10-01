@@ -14,6 +14,6 @@ It is hard to write 100% holes-free code, no matter how hard you tried. Sometime
 
 You might be saying, "hey, upgrading that library will break my code!!". Well, what is your job again? Deal with it.
 
-3\. **Web Application Firewall (WAF)** Consider getting one if your server admin lets you, it can potentially save yourself a lot of embarrassments. Just keep in mind though it should not be your only security strategy, as WAFs will not stop all kinds of attacks. It is still your sole responsibility to write good code and repeat step 1 and 2.
+3\. **Web Application Firewall (WAF)** Consider getting one if your server admin Let's you, it can potentially save yourself a lot of embarrassments. Just keep in mind though it should not be your only security strategy, as WAFs will not stop all kinds of attacks. It is still your sole responsibility to write good code and repeat step 1 and 2.
 
 **Happyyyyy coding!**

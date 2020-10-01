@@ -25,7 +25,7 @@ Some of those packages are:
 1. **Emmet** Boy, oh boy, Let me tell you about Emmet. But, it would take a long time to explain what it is, so just go to their [site](http://emmet.io/). It's basically premade snippets for pretty much everything you need.
 2. **SidebarEnhancement**Sublime's sidebar is a little bit underdeveloped. Then again, that's what packages are for, right? This nifty little package ehances your sidebar with more options to choose from like: '_Reveal..._' (which opens the file folder).
 3. **ColorHighlighter**If you're the kind of person who remembers the hex code for colors, you are one talented individual. Ya see, it's hard to visualize colors using hex code. ColorHighlighter puts a background on those colors for you to easily visualize what kind of color #00427c is (regal blue, btw).
-4. **SFTP**This one is a cool package. It lets you edit, sync, and save on-upload files from any of your sftp or ftp servers. But only if you configure it properly. If you use any preprocessors and you're worried that you have to upload the processed file manually. Worry no more as you can make sftp monitor that file if it has changed and automatically upload it. Pretty neat, huh?
+4. **SFTP**This one is a cool package. It Let's you edit, sync, and save on-upload files from any of your sftp or ftp servers. But only if you configure it properly. If you use any preprocessors and you're worried that you have to upload the processed file manually. Worry no more as you can make sftp monitor that file if it has changed and automatically upload it. Pretty neat, huh?
 
 _And since we're talking about sublime and packages, [check out this nifty blog about sublime text and their packages.](/blog/beginners-guide-for-sublime-text/)_
 

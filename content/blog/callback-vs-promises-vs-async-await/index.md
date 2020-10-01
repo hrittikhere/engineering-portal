@@ -266,7 +266,7 @@ async function printMyAsync(){
 
 
 
-You can see that we use the “async” keyword for the wrapper function printMyAsync. This lets JavaScript know that we are using async/await syntax, and is necessary if you want to use Await. This means you can’t use Await at the global level.  It always needs a wrapper function. Or we can say await is only used with an async function. 
+You can see that we use the “async” keyword for the wrapper function printMyAsync. This Let's JavaScript know that we are using async/await syntax, and is necessary if you want to use Await. This means you can’t use Await at the global level.  It always needs a wrapper function. Or we can say await is only used with an async function. 
 
 The await keyword is used in an async function to ensure that all promises returned in the async function are synchronized, ie. they wait for each other. Await eliminates the use of callbacks in .then() and .catch(). In using async and await, async is prepended when returning a promise, await is prepended when calling a promise. try and catch are also used to get the rejection value of an async function.
 
